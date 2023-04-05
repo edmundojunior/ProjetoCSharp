@@ -1,0 +1,10 @@
+C:\edm\Conexao\bin\Debug\Conexao.exe
+C:\edm\Conexao\bin\Debug\Conexao.pdb
+C:\edm\Conexao\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\edm\Conexao\obj\Debug\Conexao.csprojResolveAssemblyReference.cache
+C:\edm\Conexao\obj\Debug\Conexao.Properties.Resources.resources
+C:\edm\Conexao\obj\Debug\Conexao.csproj.GenerateResource.Cache
+C:\edm\Conexao\obj\Debug\Conexao.exe
+C:\edm\Conexao\obj\Debug\Conexao.pdb
+C:\edm\Conexao\obj\Debug\Conexao.Form1.resources
+C:\edm\Conexao\obj\Debug\Conexao.frmConfBancoDeDados.resources

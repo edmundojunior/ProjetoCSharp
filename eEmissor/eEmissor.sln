@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eEmissor", "eEmissor.csproj", "{6AD54DED-80FF-40A2-947F-A7D930F8F36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD", "..\CRUD\CRUD.csproj", "{4C9D9060-740E-473B-99B5-483F43C72895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "..\Method\Method.csproj", "{C6BE901A-48CB-486C-A5D3-5AB08904BCF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "..\Forms\Forms.csproj", "{60E81EC9-A5CF-4C43-B9DD-7AA32F7032CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD54DED-80FF-40A2-947F-A7D930F8F36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD54DED-80FF-40A2-947F-A7D930F8F36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD54DED-80FF-40A2-947F-A7D930F8F36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD54DED-80FF-40A2-947F-A7D930F8F36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9D9060-740E-473B-99B5-483F43C72895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9D9060-740E-473B-99B5-483F43C72895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9D9060-740E-473B-99B5-483F43C72895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9D9060-740E-473B-99B5-483F43C72895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6BE901A-48CB-486C-A5D3-5AB08904BCF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BE901A-48CB-486C-A5D3-5AB08904BCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BE901A-48CB-486C-A5D3-5AB08904BCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BE901A-48CB-486C-A5D3-5AB08904BCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E81EC9-A5CF-4C43-B9DD-7AA32F7032CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E81EC9-A5CF-4C43-B9DD-7AA32F7032CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E81EC9-A5CF-4C43-B9DD-7AA32F7032CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E81EC9-A5CF-4C43-B9DD-7AA32F7032CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

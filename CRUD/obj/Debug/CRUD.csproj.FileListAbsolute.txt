@@ -1,0 +1,11 @@
+C:\edm\CRUD\bin\Debug\CRUD.exe
+C:\edm\CRUD\bin\Debug\CRUD.pdb
+C:\edm\CRUD\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\edm\CRUD\bin\Debug\Method.exe
+C:\edm\CRUD\bin\Debug\Method.pdb
+C:\edm\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\edm\CRUD\obj\Debug\CRUD.Form1.resources
+C:\edm\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\edm\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+C:\edm\CRUD\obj\Debug\CRUD.exe
+C:\edm\CRUD\obj\Debug\CRUD.pdb

@@ -1,0 +1,11 @@
+C:\edm\Forms\bin\Debug\Forms.exe
+C:\edm\Forms\bin\Debug\Forms.pdb
+C:\edm\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\edm\Forms\obj\Debug\Forms.Form1.resources
+C:\edm\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\edm\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\edm\Forms\obj\Debug\Forms.exe
+C:\edm\Forms\obj\Debug\Forms.pdb
+C:\edm\Forms\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\edm\Forms\obj\Debug\Forms.FrmBase.resources
+C:\edm\Forms\obj\Debug\Forms.frmCadUsuario.resources

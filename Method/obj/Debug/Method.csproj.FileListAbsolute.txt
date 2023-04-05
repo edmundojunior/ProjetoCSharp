@@ -1,0 +1,8 @@
+C:\edm\Method\bin\Debug\Method.exe
+C:\edm\Method\bin\Debug\Method.pdb
+C:\edm\Method\obj\Debug\Method.csprojResolveAssemblyReference.cache
+C:\edm\Method\obj\Debug\Method.Form1.resources
+C:\edm\Method\obj\Debug\Method.Properties.Resources.resources
+C:\edm\Method\obj\Debug\Method.csproj.GenerateResource.Cache
+C:\edm\Method\obj\Debug\Method.exe
+C:\edm\Method\obj\Debug\Method.pdb

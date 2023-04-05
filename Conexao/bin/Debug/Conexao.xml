@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+  <Banco>D:\Meu\Projeto\Projeto\Base\DEMONST.FDB</Banco>
+  <Servidor>localhost</Servidor>
+  <Login>SYSDBA</Login>
+  <Senha>3h62+NbYot3yGqw0kxPlPA==</Senha>
+  <Porta>3050</Porta>
+</Config>

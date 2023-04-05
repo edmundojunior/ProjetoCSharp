@@ -1,0 +1,15 @@
+C:\edm\eEmissor\bin\Debug\eEmissor.exe
+C:\edm\eEmissor\bin\Debug\eEmissor.pdb
+C:\edm\eEmissor\bin\Debug\CRUD.exe
+C:\edm\eEmissor\bin\Debug\Forms.exe
+C:\edm\eEmissor\bin\Debug\Method.exe
+C:\edm\eEmissor\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\edm\eEmissor\bin\Debug\CRUD.pdb
+C:\edm\eEmissor\bin\Debug\Forms.pdb
+C:\edm\eEmissor\bin\Debug\Method.pdb
+C:\edm\eEmissor\obj\Debug\eEmissor.csprojResolveAssemblyReference.cache
+C:\edm\eEmissor\obj\Debug\eEmissor.Form1.resources
+C:\edm\eEmissor\obj\Debug\eEmissor.Properties.Resources.resources
+C:\edm\eEmissor\obj\Debug\eEmissor.csproj.GenerateResource.Cache
+C:\edm\eEmissor\obj\Debug\eEmissor.exe
+C:\edm\eEmissor\obj\Debug\eEmissor.pdb
